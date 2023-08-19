@@ -8,7 +8,7 @@
 (https://sites.utexas.edu/vip/)
 </p>
 
-* ***Ongoing project*** at the University of Texas at Austin within the Galaxy Evolution Vertically Integrated Project (GEVIP) research group !
+* Project at the University of Texas at Austin within the Galaxy Evolution Vertically Integrated Project (GEVIP) research group !
 * Built a convolutional neural network (CNN) binary image classifier using Keras (high-level API of TensorFlow)
 * Current accuracy obtained by the metric score is ~ 97%
 * The algorithm was trained on a dataset of labelled photometrically imaged galaxies consisting of 2,310 images
