@@ -1,4 +1,4 @@
-# Inspecting High-Redshift Galaxies from JWST CEERS Using Deep Learning
+# Inspecting High-Redshift Galaxies from JWST Using Deep Learning
 
 <p align="center">
 <img width="130" height="150" src= "https://user-images.githubusercontent.com/120825204/234086692-e96aa802-f497-46ee-aeb4-74b7abbdfdcd.png">
