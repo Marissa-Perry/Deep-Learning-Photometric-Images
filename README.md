@@ -11,4 +11,10 @@
 * Project at the University of Texas at Austin within the Galaxy Evolution Vertically Integrated Project (GEVIP) research group !
 * Built a convolutional neural network (CNN) binary image classifier using Keras (high-level API of TensorFlow)
 * Current accuracy obtained by the metric score is ~ 97%
-* The algorithm was trained on a dataset of labelled photometrically imaged galaxies consisting of 2,310 images
+* The algorithm was trained on a dataset of labelled photometrically imaged galaxies consisting of 2310 images
+
+## Presented Work at UT Austin's Dept. of Astronomy Frank N. Bash Symposium (October, 2023)
+
+<p align="center">
+<img width="800" height="600" src= "Bashfest_Poster.png">
+</p>
